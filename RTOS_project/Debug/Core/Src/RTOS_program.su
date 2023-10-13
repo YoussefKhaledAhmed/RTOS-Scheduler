@@ -1,0 +1,7 @@
+RTOS_program.c:41:6:RTOS_Start	8	static
+RTOS_program.c:60:16:RTOS_CreateTask	24	static
+RTOS_program.c:97:6:RTOS_SuspendTask	16	static
+RTOS_program.c:116:6:RTOS_ResumeTask	16	static
+RTOS_program.c:133:6:RTOS_DeleteTask	16	static
+RTOS_program.c:154:6:RTOS_Schedular	16	static
+RTOS_program.c:199:6:USER_SysTickInit	4	static
